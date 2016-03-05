@@ -6,6 +6,14 @@
 
 
 
+**OpenAddresses now has 220 million points**
+
+[February 12 2016, Tom Lee](https://www.mapbox.com/blog/openaddresses-220m/)
+
+> That was fast: OpenAddresses now contains 220 million addresses. You might recall that the project began in 2015 with 100 million points. It’s been growing steadily since, adding an average of about three hundred thousand addresses per day(!). It’s an incredible milestone for a project that only turned two years old earlier this month.
+
+
+
 **OpenAddresses: 130 Million Addresses, Building Momentum**
 
 [July 20 2015, Michal Migurski](http://www.codeforamerica.org/blog/2015/07/20/openaddresses-130-million-addresses-building-momentum-2/)
