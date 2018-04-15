@@ -24,7 +24,7 @@
 
 **OpenAddresses: Building a useful dataset out of disparate datasets**
 
-[June 2015, Ian Dees](http://stateofthemap.us/openaddresses-building-a-useful-dataset-out-of-disparate-datasets/)
+[June 2015, Ian Dees](https://2015.stateofthemap.us/openaddresses-building-a-useful-dataset-out-of-disparate-datasets/)
 
 > Addresses are the big missing puzzle piece in open geospatial data, OpenAddresses aims to provide that puzzle piece.
 > 
