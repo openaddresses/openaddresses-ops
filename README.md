@@ -11,3 +11,13 @@ Proposals by members of the OpenAddresses community for clarity or changes aroun
 ### ORG (Organization)
 
 Public copies of foundational documents
+
+## BOD (Board Of Directors)
+
+### President - Ian Dees
+
+### Treasurer - Michal Migurski
+
+### Secretary - Nicholas Ingalls
+
+
